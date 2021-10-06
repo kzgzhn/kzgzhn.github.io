@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kaspi/static/css/main.46389958.chunk.css",
-    "main.js": "/kaspi/static/js/main.c070c108.chunk.js",
-    "main.js.map": "/kaspi/static/js/main.c070c108.chunk.js.map",
+    "main.js": "/kaspi/static/js/main.e3340f11.chunk.js",
+    "main.js.map": "/kaspi/static/js/main.e3340f11.chunk.js.map",
     "runtime-main.js": "/kaspi/static/js/runtime-main.d4bd316d.js",
     "runtime-main.js.map": "/kaspi/static/js/runtime-main.d4bd316d.js.map",
     "static/js/2.1dcda4ce.chunk.js": "/kaspi/static/js/2.1dcda4ce.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d4bd316d.js",
     "static/js/2.1dcda4ce.chunk.js",
     "static/css/main.46389958.chunk.css",
-    "static/js/main.c070c108.chunk.js"
+    "static/js/main.e3340f11.chunk.js"
   ]
 }
