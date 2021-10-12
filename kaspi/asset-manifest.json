@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/kaspi/static/css/main.46389958.chunk.css",
-    "main.js": "/kaspi/static/js/main.e3340f11.chunk.js",
-    "main.js.map": "/kaspi/static/js/main.e3340f11.chunk.js.map",
-    "runtime-main.js": "/kaspi/static/js/runtime-main.d4bd316d.js",
-    "runtime-main.js.map": "/kaspi/static/js/runtime-main.d4bd316d.js.map",
-    "static/js/2.1dcda4ce.chunk.js": "/kaspi/static/js/2.1dcda4ce.chunk.js",
-    "static/js/2.1dcda4ce.chunk.js.map": "/kaspi/static/js/2.1dcda4ce.chunk.js.map",
-    "static/js/3.3adb0a8c.chunk.js": "/kaspi/static/js/3.3adb0a8c.chunk.js",
-    "static/js/3.3adb0a8c.chunk.js.map": "/kaspi/static/js/3.3adb0a8c.chunk.js.map",
+    "main.js": "/kaspi/static/js/main.747f4447.chunk.js",
+    "main.js.map": "/kaspi/static/js/main.747f4447.chunk.js.map",
+    "runtime-main.js": "/kaspi/static/js/runtime-main.e7d7e0ce.js",
+    "runtime-main.js.map": "/kaspi/static/js/runtime-main.e7d7e0ce.js.map",
+    "static/js/2.6b5715c5.chunk.js": "/kaspi/static/js/2.6b5715c5.chunk.js",
+    "static/js/2.6b5715c5.chunk.js.map": "/kaspi/static/js/2.6b5715c5.chunk.js.map",
+    "static/js/3.6880be60.chunk.js": "/kaspi/static/js/3.6880be60.chunk.js",
+    "static/js/3.6880be60.chunk.js.map": "/kaspi/static/js/3.6880be60.chunk.js.map",
     "index.html": "/kaspi/index.html",
     "static/css/main.46389958.chunk.css.map": "/kaspi/static/css/main.46389958.chunk.css.map",
-    "static/js/2.1dcda4ce.chunk.js.LICENSE.txt": "/kaspi/static/js/2.1dcda4ce.chunk.js.LICENSE.txt"
+    "static/js/2.6b5715c5.chunk.js.LICENSE.txt": "/kaspi/static/js/2.6b5715c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4bd316d.js",
-    "static/js/2.1dcda4ce.chunk.js",
+    "static/js/runtime-main.e7d7e0ce.js",
+    "static/js/2.6b5715c5.chunk.js",
     "static/css/main.46389958.chunk.css",
-    "static/js/main.e3340f11.chunk.js"
+    "static/js/main.747f4447.chunk.js"
   ]
 }
